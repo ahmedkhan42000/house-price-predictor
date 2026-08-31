@@ -6,6 +6,7 @@ A machine learning project that predicts whether a passenger survived the Titani
 - **Accuracy: 80.45%**
 - Most important survival factor: **Sex** (women survived at much higher rates)
 - Second most important: **Ticket Class** (first class had better lifeboat access)
+- ![Feature Importance](feature_importance.png)
 
 ## What I did
 - Loaded and explored the Titanic dataset (891 passengers)
